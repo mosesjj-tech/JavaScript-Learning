@@ -10,7 +10,6 @@ console.log(mutiplication);
 console.log(devision);
 console.log(remainder  );  
 
-// logical
 
 console.log(true && true);
 console.log(false || true);
@@ -19,7 +18,6 @@ console.log(!true);
 
 
 
-// COMPARISON 
 
 console.log(40 > 20);
 console.log(15 < 10);
@@ -32,7 +30,6 @@ console.log(8 <= 5);
 
 
 
-// LET PRACTICE
 
 let age = 20;
 console.log(age);
@@ -41,7 +38,6 @@ age = 25;
 console.log(age);
 
 
-// CONST PRACTICE
 
 const country = "Nigeria";
 console.log(country);
@@ -55,7 +51,6 @@ function Weclome() {
 Weclome();
 
 
-// CHAPTER 1: LOGICAL OPERATORS
 
 console.log(false && true);
 console.log(true || false);
@@ -69,7 +64,6 @@ console.log(false || true && false);
 
 
 
-// CHAPTER 1: TYPE CONVERSION
 
 
 console.log(Number("25"));
