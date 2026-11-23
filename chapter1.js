@@ -1,4 +1,4 @@
-
+/ Arithmetic Operators
 let addition= 25 + 15;
 let subtraction = 50 - 20;
 let mutiplication= 8 * 4;
@@ -10,13 +10,13 @@ console.log(mutiplication);
 console.log(devision);
 console.log(remainder  );  
 
-
+/ logical
 console.log(true && true);
 console.log(false || true);
 console.log(!true); 
 
 
-
+/LET PRACTICE
 
 
 console.log(40 > 20);
@@ -28,7 +28,7 @@ console.log(8 <= 5);
 
 
 
-
+/ CONST PRACTICE
 
 
 let age = 20;
@@ -50,7 +50,7 @@ function Weclome() {
 
 Weclome();
 
-
+/CHAPTER 1: LOGICAL OPERATORS
 
 console.log(false && true);
 console.log(true || false);
@@ -64,7 +64,7 @@ console.log(false || true && false);
 
 
 
-
+/ CHAPTER 1: TYPE CONVERSION
 
 console.log(Number("25"));
 console.log(Number("100") + 50);
